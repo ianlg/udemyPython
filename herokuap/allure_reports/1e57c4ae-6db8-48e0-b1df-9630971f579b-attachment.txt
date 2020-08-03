@@ -1,0 +1,6 @@
+There was an exception
+assert False == True
+ +  where False = <bound method WebElement.is_selected of <selenium.webdriver.remote.webelement.WebElement (session="ed10c26511b7f6fa0eb5eb09919c0b3e", element="8facab92-e175-4572-a031-5464f39a5f8d")>>()
+ +    where <bound method WebElement.is_selected of <selenium.webdriver.remote.webelement.WebElement (session="ed10c26511b7f6fa0eb5eb09919c0b3e", element="8facab92-e175-4572-a031-5464f39a5f8d")>> = <selenium.webdriver.remote.webelement.WebElement (session="ed10c26511b7f6fa0eb5eb09919c0b3e", element="8facab92-e175-4572-a031-5464f39a5f8d")>.is_selected
+ +      where <selenium.webdriver.remote.webelement.WebElement (session="ed10c26511b7f6fa0eb5eb09919c0b3e", element="8facab92-e175-4572-a031-5464f39a5f8d")> = <bound method WebDriver.find_element_by_xpath of <selenium.webdriver.chrome.webdriver.WebDriver (session="ed10c26511b7f6fa0eb5eb09919c0b3e")>>('//*[@id="checkboxes"]/input[2]')
+ +        where <bound method WebDriver.find_element_by_xpath of <selenium.webdriver.chrome.webdriver.WebDriver (session="ed10c26511b7f6fa0eb5eb09919c0b3e")>> = <selenium.webdriver.chrome.webdriver.WebDriver (session="ed10c26511b7f6fa0eb5eb09919c0b3e")>.find_element_by_xpath

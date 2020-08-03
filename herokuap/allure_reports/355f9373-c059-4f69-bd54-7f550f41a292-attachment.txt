@@ -1,0 +1,7 @@
+http://the-internet.herokuapp.com/img/forkme_right_green_007200.png
+http://the-internet.herokuapp.com/asdf.jpg
+http://the-internet.herokuapp.com/hjkl.jpg
+http://the-internet.herokuapp.com/img/avatar-blank.jpg
+<Response [404]>
+<Response [404]>
+<Response [200]>
